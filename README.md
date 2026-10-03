@@ -6,14 +6,14 @@
 
 ## Download
 
-**Latest version: v1.3** (Oct 3, 2026)
+**Latest version: v1.4** (Oct 3, 2026)
 
-- [BindRunner_v1.3_no-install.zip](https://github.com/codenomics/BindRunner/releases/download/v1.3/BindRunner_v1.3_no-install.zip) - 126 KB
-- [BindRunner_v1.3_Setup.exe](https://github.com/codenomics/BindRunner/releases/download/v1.3/BindRunner_v1.3_Setup.exe) - 195 KB
+- [BindRunner_v1.4_no-install.zip](https://github.com/codenomics/BindRunner/releases/download/v1.4/BindRunner_v1.4_no-install.zip) - 130 KB
+- [BindRunner_v1.4_Setup.exe](https://github.com/codenomics/BindRunner/releases/download/v1.4/BindRunner_v1.4_Setup.exe) - 198 KB
 
-What's new in v1.3:
+What's new in v1.4:
 
-No notes for this version.
+- New: BindRunner can check GitHub for a newer version and offer to update (tray menu "Check for updates"; turn the startup check off in Help).
 
 Older versions are on the [Releases page](https://github.com/codenomics/BindRunner/releases).
 
@@ -121,6 +121,12 @@ GOOD TO KNOW
 - Star Citizen: BindRunner can switch your Star Citizen profile to its
   "Flight" keymap when you sit at a ship's helm and to "Walk" when you get
   up (Profile menu -> "Star Citizen: sit / stand switching").
+- Updates: shortly after it starts, BindRunner quietly checks GitHub for a
+  newer version. If there is one, the tray menu item "Check for updates"
+  changes to "Update available" and you get one small tray note - it never
+  pops up a window while you're gaming. Click the menu item to update.
+  Turn the startup check off in Help ("Check for updates when BindRunner
+  starts").
 - Buttons don't work while an "admin" window (like Task Manager) is in
   front. That's a Windows security rule.
 - Settings: %APPDATA%\BindRunner. "Export" (top of the window) saves a
