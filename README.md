@@ -2,12 +2,12 @@
 
 ## Download
 
-**Latest version: v1.1** (Oct 3, 2026)
+**Latest version: v1.2** (Oct 3, 2026)
 
-- [BindRunner_v1.1_no-install.zip](https://github.com/codenomics/BindRunner/releases/download/v1.1/BindRunner_v1.1_no-install.zip) - 126 KB
-- [BindRunner_v1.1_Setup.exe](https://github.com/codenomics/BindRunner/releases/download/v1.1/BindRunner_v1.1_Setup.exe) - 195 KB
+- [BindRunner_v1.2_no-install.zip](https://github.com/codenomics/BindRunner/releases/download/v1.2/BindRunner_v1.2_no-install.zip) - 126 KB
+- [BindRunner_v1.2_Setup.exe](https://github.com/codenomics/BindRunner/releases/download/v1.2/BindRunner_v1.2_Setup.exe) - 195 KB
 
-What's new in v1.1:
+What's new in v1.2:
 
 No notes for this version.
 
@@ -45,14 +45,26 @@ inside the app has them too.
 
 GETTING STARTED
 ---------------
-1. Right-click the zip -> Extract All... and put the BindRunner folder
-   somewhere it can stay (for example Documents). Don't run it from inside
-   the zip. Keep interception.dll next to BindRunner.exe.
-2. Double-click  BindRunner.exe
-   Needs Windows 10 or 11 (64-bit).
-3. Tick "Start with Windows" (Tartarus tab, or the tray menu) so it's
-   always running. Closing the window keeps it running in the tray
-   (near the clock); right-click the tray icon -> Exit to fully quit.
+Pick one. Both give you the same app.
+
+OPTION 1 - INSTALLER (recommended)
+  Download the file ending in _Setup.exe, double-click it and click Install.
+  It installs just for you (no admin password) and adds Start menu and
+  Desktop shortcuts. Needs Windows 10 or 11 (64-bit).
+  To remove it later: Windows Settings > Apps > BindRunner > Uninstall.
+
+OPTION 2 - NO INSTALL (zip)
+  1. Download the file ending in _no-install.zip. Right-click it -> Extract
+  All... and put the BindRunner folder somewhere it can stay (for example
+  Documents). Don't run it from inside the zip. Keep interception.dll next
+  to BindRunner.exe.
+  2. Double-click BindRunner.exe. Nothing is installed; to remove it, delete
+  the folder.
+
+EITHER WAY
+  Tick "Start with Windows" (Tartarus tab, or the tray menu) so it's always
+  running. Closing the window keeps it running in the tray (near the clock);
+  right-click the tray icon -> Exit to fully quit.
 
 "Windows protected your PC"? Click "More info" -> "Run anyway".
 Windows shows that for apps downloaded from the internet that aren't
