@@ -1,13 +1,17 @@
 # BindRunner
 
+> This application is built by AI. I made this for myself and I'm uploading it to GitHub for backup and to share in case anyone can get any use out of it. It's pretty specific to my setup and my needs, but if you can get any use out of it, then enjoy.
+>
+> Use at your own risk. I offer no warranty or guarantees for this software.
+
 ## Download
 
-**Latest version: v1.2** (Oct 3, 2026)
+**Latest version: v1.3** (Oct 3, 2026)
 
-- [BindRunner_v1.2_no-install.zip](https://github.com/codenomics/BindRunner/releases/download/v1.2/BindRunner_v1.2_no-install.zip) - 126 KB
-- [BindRunner_v1.2_Setup.exe](https://github.com/codenomics/BindRunner/releases/download/v1.2/BindRunner_v1.2_Setup.exe) - 195 KB
+- [BindRunner_v1.3_no-install.zip](https://github.com/codenomics/BindRunner/releases/download/v1.3/BindRunner_v1.3_no-install.zip) - 126 KB
+- [BindRunner_v1.3_Setup.exe](https://github.com/codenomics/BindRunner/releases/download/v1.3/BindRunner_v1.3_Setup.exe) - 195 KB
 
-What's new in v1.2:
+What's new in v1.3:
 
 No notes for this version.
 
