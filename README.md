@@ -6,14 +6,15 @@
 
 ## Download
 
-**Latest version: v1.4** (Oct 3, 2026)
+**Latest version: v1.5** (Oct 8, 2026)
 
-- [BindRunner_v1.4_no-install.zip](https://github.com/codenomics/BindRunner/releases/download/v1.4/BindRunner_v1.4_no-install.zip) - 130 KB
-- [BindRunner_v1.4_Setup.exe](https://github.com/codenomics/BindRunner/releases/download/v1.4/BindRunner_v1.4_Setup.exe) - 198 KB
+- [BindRunner_v1.5_no-install.zip](https://github.com/codenomics/BindRunner/releases/download/v1.5/BindRunner_v1.5_no-install.zip) - 130 KB
+- [BindRunner_v1.5_Setup.exe](https://github.com/codenomics/BindRunner/releases/download/v1.5/BindRunner_v1.5_Setup.exe) - 198 KB
+- [BindRunner_v1.5_source.zip](https://github.com/codenomics/BindRunner/releases/download/v1.5/BindRunner_v1.5_source.zip) - 117 KB
 
-What's new in v1.4:
+What's new in v1.5:
 
-- New: BindRunner can check GitHub for a newer version and offer to update (tray menu "Check for updates"; turn the startup check off in Help).
+- No app changes. Uploading Code**
 
 Older versions are on the [Releases page](https://github.com/codenomics/BindRunner/releases).
 
@@ -32,6 +33,10 @@ Older versions are on the [Releases page](https://github.com/codenomics/BindRunn
 3. Open the folder and double-click the app's .exe. Nothing is installed; delete the folder to remove it.
 
 Windows says "Windows protected your PC"? Click More info > Run anyway. It shows that for apps without a paid signing certificate.
+
+## Source code
+
+Want to see how it works, or build it yourself? Download the file ending in `_source.zip` above, extract it and double-click `Build.bat`. It only uses the C# compiler that already comes with Windows, so there is nothing to install.
 
 ## More details
 
