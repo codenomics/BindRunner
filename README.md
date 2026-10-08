@@ -6,15 +6,15 @@
 
 ## Download
 
-**Latest version: v1.5** (Oct 8, 2026)
+**Latest version: v1.6** (Oct 8, 2026)
 
-- [BindRunner_v1.5_no-install.zip](https://github.com/codenomics/BindRunner/releases/download/v1.5/BindRunner_v1.5_no-install.zip) - 130 KB
-- [BindRunner_v1.5_Setup.exe](https://github.com/codenomics/BindRunner/releases/download/v1.5/BindRunner_v1.5_Setup.exe) - 198 KB
-- [BindRunner_v1.5_source.zip](https://github.com/codenomics/BindRunner/releases/download/v1.5/BindRunner_v1.5_source.zip) - 117 KB
+- [BindRunner_v1.6_no-install.zip](https://github.com/codenomics/BindRunner/releases/download/v1.6/BindRunner_v1.6_no-install.zip) - 130 KB
+- [BindRunner_v1.6_Setup.exe](https://github.com/codenomics/BindRunner/releases/download/v1.6/BindRunner_v1.6_Setup.exe) - 198 KB
+- [BindRunner_v1.6_source.zip](https://github.com/codenomics/BindRunner/releases/download/v1.6/BindRunner_v1.6_source.zip) - 117 KB
 
-What's new in v1.5:
+What's new in v1.6:
 
-- No app changes. Uploading Code**
+- updater versioning fix**
 
 Older versions are on the [Releases page](https://github.com/codenomics/BindRunner/releases).
 
