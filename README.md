@@ -6,15 +6,16 @@
 
 ## Download
 
-**Latest version: v1.6** (Oct 8, 2026)
+**Latest version: v1.7** (Oct 13, 2026)
 
-- [BindRunner_v1.6_no-install.zip](https://github.com/codenomics/BindRunner/releases/download/v1.6/BindRunner_v1.6_no-install.zip) - 130 KB
-- [BindRunner_v1.6_Setup.exe](https://github.com/codenomics/BindRunner/releases/download/v1.6/BindRunner_v1.6_Setup.exe) - 198 KB
-- [BindRunner_v1.6_source.zip](https://github.com/codenomics/BindRunner/releases/download/v1.6/BindRunner_v1.6_source.zip) - 117 KB
+- [BindRunner_v1.7_no-install.zip](https://github.com/codenomics/BindRunner/releases/download/v1.7/BindRunner_v1.7_no-install.zip) - 131 KB
+- [BindRunner_v1.7_Setup.exe](https://github.com/codenomics/BindRunner/releases/download/v1.7/BindRunner_v1.7_Setup.exe) - 199 KB
+- [BindRunner_v1.7_source.zip](https://github.com/codenomics/BindRunner/releases/download/v1.7/BindRunner_v1.7_source.zip) - 118 KB
 
-What's new in v1.6:
+What's new in v1.7:
 
-- updater versioning fix**
+- Star Citizen: new Live / PTU / Hotfix picker in the Profile menu, so sit / stand switching follows the game version you are playing
+- Star Citizen: Automatic (the default) follows whichever game is running
 
 Older versions are on the [Releases page](https://github.com/codenomics/BindRunner/releases).
 
@@ -126,6 +127,8 @@ GOOD TO KNOW
 - Star Citizen: BindRunner can switch your Star Citizen profile to its
   "Flight" keymap when you sit at a ship's helm and to "Walk" when you get
   up (Profile menu -> "Star Citizen: sit / stand switching").
+  Playing the PTU or Hotfix? Pick Live, PTU or Hotfix in that same menu, or
+  leave it on Automatic to follow whichever game is running.
 - Updates: shortly after it starts, BindRunner quietly checks GitHub for a
   newer version. If there is one, the tray menu item "Check for updates"
   changes to "Update available" and you get one small tray note - it never
