@@ -1,21 +1,29 @@
 # BindRunner
 
+Button mapping for a Razer Naga V3 Pro mouse, a Logitech G502 Hero mouse and a Razer Tartarus keypad, without Logitech G HUB or Razer Synapse running. Each device has its own tab.
+
+BindRunner was made for one person's setup, so each device needs a little setting up the first time. The steps are below, and the "? Help" button inside the app has them too.
+
 > This application is built by AI. I made this for myself and I'm uploading it to GitHub for backup and to share in case anyone can get any use out of it. It's pretty specific to my setup and my needs, but if you can get any use out of it, then enjoy.
 >
 > Use at your own risk. I offer no warranty or guarantees for this software.
 
 ## Download
 
-**Latest version: v1.7** (Oct 13, 2026)
+**Latest version: v1.8** (Nov 10, 2026)
 
-- [BindRunner_v1.7_no-install.zip](https://github.com/codenomics/BindRunner/releases/download/v1.7/BindRunner_v1.7_no-install.zip) - 131 KB
-- [BindRunner_v1.7_Setup.exe](https://github.com/codenomics/BindRunner/releases/download/v1.7/BindRunner_v1.7_Setup.exe) - 199 KB
-- [BindRunner_v1.7_source.zip](https://github.com/codenomics/BindRunner/releases/download/v1.7/BindRunner_v1.7_source.zip) - 118 KB
+- [BindRunner_v1.8_no-install.zip](https://github.com/codenomics/BindRunner/releases/download/v1.8/BindRunner_v1.8_no-install.zip) - 139 KB
+- [BindRunner_v1.8_Setup.exe](https://github.com/codenomics/BindRunner/releases/download/v1.8/BindRunner_v1.8_Setup.exe) - 207 KB
+- [BindRunner_v1.8_source.zip](https://github.com/codenomics/BindRunner/releases/download/v1.8/BindRunner_v1.8_source.zip) - 126 KB
 
-What's new in v1.7:
+What's new in v1.8:
 
-- Star Citizen: new Live / PTU / Hotfix picker in the Profile menu, so sit / stand switching follows the game version you are playing
-- Star Citizen: Automatic (the default) follows whichever game is running
+- New: Razer Naga V3 Pro tab, with a picture of the mouse's buttons
+- Naga: pick the side plate you have fitted (12, 6 or 2 buttons); each plate keeps its own settings
+- Naga: change or record what every side button, wheel tilt, wheel click and top button does
+- Naga: with BindRunner in front, press a mouse button to pick it on the picture
+- Naga: works without Razer Synapse running, once the mouse's settings are saved to its on-board memory
+- The Naga and the Tartarus work at the same time
 
 Older versions are on the [Releases page](https://github.com/codenomics/BindRunner/releases).
 
@@ -42,17 +50,6 @@ Want to see how it works, or build it yourself? Download the file ending in `_so
 ## More details
 
 ```
-BINDRUNNER
-==========
-
-Button mapping for a Logitech G502 Hero mouse and a Razer Tartarus keypad,
-without Logitech G HUB or Razer Synapse running. Each device has its own tab.
-
-BindRunner was made for one person's setup, so each device needs a little
-setting up the first time. The steps are below, and the "? Help" button
-inside the app has them too.
-
-
 GETTING STARTED
 ---------------
 Pick one. Both give you the same app.
@@ -91,6 +88,30 @@ once with Logitech G HUB, saved to the mouse's on-board memory:
 Save it to the mouse, then close or uninstall G HUB.
 In BindRunner's G502 tab, click "Change" or "Record" next to a button to
 choose what it does.
+
+
+RAZER NAGA V3 PRO
+-----------------
+The Naga tab uses the free Interception driver too (see Razer Tartarus
+below for how to install it). It works with the mouse on its wireless
+dongle.
+1. Side buttons: leave them on their normal Synapse settings (number keys,
+   or mouse buttons 4 and 5 on the 2-button plate).
+2. Top buttons and wheel tilt: in Razer Synapse, set each to its own spare
+   key so BindRunner can tell them apart:
+      Wheel tilt left = F17, Wheel tilt right = F18,
+      Left click front button = F21, Left click back button = F22,
+      Ring finger button (Hypershift) = F23,
+      Middle buttons: Cycle Scroll Mode = F24, AI Prompt Master = F20,
+      Bottom button (Cycle Up Profile) = F19.
+   Save it to the mouse's on-board memory, then fully exit Synapse.
+3. In BindRunner's Naga tab, pick the side plate you have fitted (the
+   mouse can't tell BindRunner which one is on). Click a button on the
+   picture - or press it while BindRunner is the window in front - then
+   click "Change" or "Record" to choose what it does.
+   Buttons left on "Default" do what they normally do.
+DPI and Smart-Reel stay in Synapse (save them to the mouse before you
+exit it).
 
 
 RAZER TARTARUS
