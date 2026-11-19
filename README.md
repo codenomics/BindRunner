@@ -10,20 +10,18 @@ BindRunner was made for one person's setup, so each device needs a little settin
 
 ## Download
 
-**Latest version: v1.8** (Nov 10, 2026)
+**Latest version: v1.9** (Nov 19, 2026)
 
-- [BindRunner_v1.8_no-install.zip](https://github.com/codenomics/BindRunner/releases/download/v1.8/BindRunner_v1.8_no-install.zip) - 139 KB
-- [BindRunner_v1.8_Setup.exe](https://github.com/codenomics/BindRunner/releases/download/v1.8/BindRunner_v1.8_Setup.exe) - 207 KB
-- [BindRunner_v1.8_source.zip](https://github.com/codenomics/BindRunner/releases/download/v1.8/BindRunner_v1.8_source.zip) - 126 KB
+- [BindRunner_v1.9_no-install.zip](https://github.com/codenomics/BindRunner/releases/download/v1.9/BindRunner_v1.9_no-install.zip) - 140 KB
+- [BindRunner_v1.9_Setup.exe](https://github.com/codenomics/BindRunner/releases/download/v1.9/BindRunner_v1.9_Setup.exe) - 208 KB
+- [BindRunner_v1.9_source.zip](https://github.com/codenomics/BindRunner/releases/download/v1.9/BindRunner_v1.9_source.zip) - 127 KB
 
-What's new in v1.8:
+What's new in v1.9:
 
-- New: Razer Naga V3 Pro tab, with a picture of the mouse's buttons
-- Naga: pick the side plate you have fitted (12, 6 or 2 buttons); each plate keeps its own settings
-- Naga: change or record what every side button, wheel tilt, wheel click and top button does
-- Naga: with BindRunner in front, press a mouse button to pick it on the picture
-- Naga: works without Razer Synapse running, once the mouse's settings are saved to its on-board memory
-- The Naga and the Tartarus work at the same time
+- Naga: now follows your profiles, the same ones as the Tartarus, so each game can have its own Naga buttons
+- Naga: profile picker on the Naga tab; a new profile starts with the Default profile's Naga buttons
+- Fixed: "Find my Tartarus" could pick the Naga by mistake, which stopped both from working
+- Naga: now also works when the mouse is plugged in with its USB cable
 
 Older versions are on the [Releases page](https://github.com/codenomics/BindRunner/releases).
 
@@ -144,7 +142,9 @@ anti-cheat systems may not like it - check before using it with those.
 GOOD TO KNOW
 ------------
 - Profiles switch by themselves when a game linked to a profile is the
-  window in front. Each profile can have several keymaps.
+  window in front. Each profile can have several keymaps. The Naga and
+  the Tartarus share the same profiles, and each profile keeps its own
+  Naga buttons.
 - Star Citizen: BindRunner can switch your Star Citizen profile to its
   "Flight" keymap when you sit at a ship's helm and to "Walk" when you get
   up (Profile menu -> "Star Citizen: sit / stand switching").
