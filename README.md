@@ -10,18 +10,16 @@ BindRunner was made for one person's setup, so each device needs a little settin
 
 ## Download
 
-**Latest version: v1.9** (Nov 19, 2026)
+**Latest version: v1.10** (Nov 20, 2026)
 
-- [BindRunner_v1.9_no-install.zip](https://github.com/codenomics/BindRunner/releases/download/v1.9/BindRunner_v1.9_no-install.zip) - 140 KB
-- [BindRunner_v1.9_Setup.exe](https://github.com/codenomics/BindRunner/releases/download/v1.9/BindRunner_v1.9_Setup.exe) - 208 KB
-- [BindRunner_v1.9_source.zip](https://github.com/codenomics/BindRunner/releases/download/v1.9/BindRunner_v1.9_source.zip) - 127 KB
+- [BindRunner_v1.10_no-install.zip](https://github.com/codenomics/BindRunner/releases/download/v1.10/BindRunner_v1.10_no-install.zip) - 140 KB
+- [BindRunner_v1.10_Setup.exe](https://github.com/codenomics/BindRunner/releases/download/v1.10/BindRunner_v1.10_Setup.exe) - 208 KB
+- [BindRunner_v1.10_source.zip](https://github.com/codenomics/BindRunner/releases/download/v1.10/BindRunner_v1.10_source.zip) - 127 KB
 
-What's new in v1.9:
+What's new in v1.10:
 
-- Naga: now follows your profiles, the same ones as the Tartarus, so each game can have its own Naga buttons
-- Naga: profile picker on the Naga tab; a new profile starts with the Default profile's Naga buttons
-- Fixed: "Find my Tartarus" could pick the Naga by mistake, which stopped both from working
-- Naga: now also works when the mouse is plugged in with its USB cable
+- Naga: the 2-button plate's buttons now work whichever side plate is picked in the app, so you can swap to the 2-button plate without changing the app
+- Naga: each profile remembers its own side plate, so it switches with the game (for example Star Citizen) and back to Default when the game closes
 
 Older versions are on the [Releases page](https://github.com/codenomics/BindRunner/releases).
 
